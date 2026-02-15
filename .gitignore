@@ -7,6 +7,7 @@ __pycache__/
 *.so
 yolo/
 **/yolo/
+**/*.pt
 
 # Distribution / packaging
 .Python
